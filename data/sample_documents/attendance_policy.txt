@@ -1,0 +1,28 @@
+[SAMPLE / DEMO COLLEGE DOCUMENT]
+Document: Apex University - Student Attendance Policy & Regulations (Academic Year 2024-2025)
+
+1. Minimum Attendance Threshold
+- Every enrolled student must maintain a minimum of 75% attendance in each registered course (lectures, tutorials, and practical lab sessions) to be eligible to sit for the End-Semester Final Examinations.
+- Attendance is tracked on an hourly session basis via the Apex Student Portal (ERP) and updated weekly by course instructors.
+
+2. Condonation of Attendance Shortage (Medical & Special Circumstances)
+- If a student's overall attendance falls between 65% and 74.9%, the Academic Dean's office may grant condonation on genuine medical grounds or sanctioned university representation (sports, conferences, cultural competitions).
+- Requirements for Medical Condonation:
+  * Official medical certificate issued by a registered medical practitioner.
+  * Medical fitness certificate submitted to the department office within 5 working days of resuming classes.
+  * Payment of a condonation fee of $50 per course.
+- Attendance below 65% CANNOT be condoned under any circumstances.
+
+3. Consequences of Severe Attendance Shortage (Below 65%)
+- Students possessing attendance below 65% in any subject are classified as "Detained" (Grade: 'FA' - Failed due to Attendance) in that specific course.
+- Detained students will NOT be permitted to write the end-semester examination and must re-register for the course in subsequent summer terms or regular semesters.
+
+4. On-Duty (OD) Leave Guidelines
+- University-sanctioned sports teams, hackathon participants, and student council members may claim up to a maximum of 10 On-Duty (OD) days per semester.
+- OD applications must be pre-approved by the Faculty Advisor and Head of Department (HOD) at least 48 hours prior to the event.
+
+5. Monitoring and Notifications
+- Attendance warnings are generated automatically:
+  * Warning 1: Sent via email when attendance dips below 80%.
+  * Warning 2 (Critical): Sent to student and parent when attendance drops below 75%.
+- Discrepancies in attendance records must be reported to the respective faculty member within 3 business days of the attendance log posting.

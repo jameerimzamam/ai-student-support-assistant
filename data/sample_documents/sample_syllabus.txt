@@ -1,0 +1,35 @@
+[SAMPLE / DEMO COLLEGE DOCUMENT]
+Document: Apex University - Department of Computer Science & Engineering
+Course Syllabus: CS101 - Introduction to Data Structures and Algorithms (4 Credits)
+
+1. Course Information
+- Course Code: CS101
+- Course Title: Introduction to Data Structures and Algorithms
+- Credits: 4 (L-T-P-C: 3-0-2-4: 3 Lecture hours, 2 Lab hours weekly)
+- Prerequisites: CS100 (Problem Solving and Object-Oriented Programming in Python/C++)
+- Faculty In-Charge: Prof. Elena Rostova (Office: Technology Tower TT-402)
+- Lab Co-requisite: CS101L (Data Structures Hands-on Laboratory)
+
+2. Course Objectives & Learning Outcomes
+- Understand fundamental abstract data types (ADTs): Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables.
+- Analyze algorithmic efficiency using Big-O, Big-Theta, and Big-Omega asymptotic notation.
+- Implement sorting algorithms (QuickSort, MergeSort, HeapSort) and search strategies (Binary Search, BFS, DFS).
+- Solve real-world engineering problems with dynamic programming and greedy paradigms.
+
+3. Module Breakdown
+- Module 1: Complexity Analysis & Elementary Data Structures (Arrays, Dynamic Arrays, Singly/Doubly Linked Lists).
+- Module 2: Stacks & Queues (Implementation, Expression Evaluation, Circular Queues, Priority Queues).
+- Module 3: Non-Linear Structures (Binary Search Trees, AVL Trees, B-Trees, Heap Operations).
+- Module 4: Graph Algorithms (Adjacency Matrix/List representations, Dijkstra's Shortest Path, Prim's and Kruskal's MST).
+- Module 5: Hashing Techniques (Collision Resolution, Open Addressing, Chaining, Cryptographic Hash basics).
+
+4. Textbooks & Reference Materials
+- Primary Textbook: "Introduction to Algorithms" (CLRS) by Cormen, Leiserson, Rivest, and Stein (4th Edition).
+- Reference: "Data Structures and Algorithm Analysis in C++" by Mark Allen Weiss.
+- Online Practice Portal: Apex CodeJudge (https://codejudge.apex.edu/cs101).
+
+5. Evaluation Criteria
+- Continuous Assessment Tests (CAT 1 & CAT 2): 30%
+- Lab Assignments and Bi-weekly Coding Challenges: 20%
+- Course Term Project: 10%
+- Final Theory Examination: 40%

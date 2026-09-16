@@ -1,0 +1,32 @@
+[SAMPLE / DEMO COLLEGE DOCUMENT]
+Document: Apex University - Examination Guidelines & Student FAQs
+
+Q1: What are the primary examination components for each course?
+A1: Each 3 or 4-credit course follows a continuous assessment pattern:
+- Continuous Assessment Tests (CAT 1 & CAT 2): 40% weightage (20% each).
+- Quizzes, Assignments, and Lab Assessments: 10% weightage.
+- End-Semester Final Examination (FAT): 50% weightage.
+
+Q2: What is the minimum passing mark for a theory course?
+A2: A student must obtain a minimum of 40% in the End-Semester Examination and an aggregate total score of at least 50% (Continuous Assessments + Final Exam) to pass the course with a passing grade ('P' or above).
+
+Q3: What happens if I miss a Continuous Assessment Test (CAT) due to illness?
+A3: If a student misses CAT 1 or CAT 2 for verified medical emergencies or approved institutional activities:
+- The student must submit a Makeup Exam petition along with authentic medical certificates to the Controller of Examinations (COE) within 4 days of the missed test.
+- The approved Makeup CAT is conducted during the 13th week of the semester and carries equivalent difficulty. Only ONE makeup test is permitted per course per semester.
+
+Q4: How do I apply for Answer Script Re-evaluation / Review?
+A4:
+- Answer script inspection (photocopy review) opens within 5 working days following the declaration of results on the ERP portal.
+- Inspection fee: $15 per paper.
+- Full Re-evaluation petition: $40 per paper.
+- If the re-evaluation yields a grade improvement of greater than 5 marks, 50% of the re-evaluation fee is refunded. The higher mark is recorded as the final grade.
+
+Q5: What are the penalties for Academic Malpractice during examinations?
+A5:
+- Level 1 (Possession of unauthorized materials, notes, or smart devices): Cancellation of the examination paper for that particular subject and award of grade 'F'.
+- Level 2 (Copying, assisting peers, or exchanging answers): Cancellation of all exams in the current semester and one-semester academic suspension.
+- Level 3 (Impersonation or organized cheating): Expulsion from Apex University and reporting to higher disciplinary authorities.
+
+Q6: What is a Grade Improvement / Supplementary Examination?
+A6: Students with grades 'D' or 'E' may opt for Grade Improvement in up to two courses during the annual supplementary examination window held in July. Students with grade 'F' must sit for the backlog examination.

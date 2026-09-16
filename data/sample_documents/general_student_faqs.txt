@@ -1,0 +1,37 @@
+[SAMPLE / DEMO COLLEGE DOCUMENT]
+Document: Apex University - General Student Support FAQs & Campus Services
+
+Q1: What are the Central Library hours and borrowing limits?
+A1:
+- Operating Hours: Monday through Saturday 8:00 AM - 11:00 PM; Sundays 10:00 AM - 6:00 PM. During Final Examination weeks, 24/7 reading halls are operational in the Library Annex.
+- Borrowing Limits:
+  * Undergraduate students: 6 books for a 14-day checkout period.
+  * Postgraduate students: 10 books for a 28-day checkout period.
+  * Late renewal penalty: $0.50 per book per day.
+- Digital Library: Access IEEE Xplore, ACM Digital Library, SpringerLink, and ScienceDirect via campus VPN or Apex Institutional SSO.
+
+Q2: What healthcare and counseling facilities are available on campus?
+A2:
+- Apex University Health Center: Located adjacent to Student Center Block A. Staffed 24/7 by emergency resident physicians and nursing staff. Walk-in consultations and basic OTC medicines are free of charge for enrolled students.
+- Ambulance hotline: Extension 9110 or +1-800-APEX-MED.
+- Mental Health & Student Counseling Center: Professional confidential counseling available Monday-Friday 9:00 AM - 5:00 PM. Appointments can be booked anonymously via the Apex Well-being app or by emailing counseling@apex.edu.
+
+Q3: How does campus Wi-Fi authentication work?
+A3:
+- Connect to SSID: 'Apex-Student-Secure'.
+- Security protocol: WPA2/WPA3 Enterprise (PEAP / MSCHAPv2).
+- Username: Student Roll Number (e.g., APX2024CS042).
+- Password: ERP Portal password.
+- Maximum 3 registered personal devices allowed per student.
+
+Q4: Where are the Career Development and Placement Cells located?
+A4:
+- Career Development Center (CDC): Innovation Hub, 3rd Floor.
+- Services: Resume reviews, mock coding interviews, internship placement fairs, alumni mentorship networks.
+- Campus recruitment eligibility typically requires a minimum CGPA of 6.5 or 7.0 (depending on recruiting corporate partner) and no active standing backlogs.
+
+Q5: Who do I contact for emergency security assistance?
+A5:
+- Campus Security Control Room: Open 24/7.
+- Phone: +1-800-555-APEX (Ext 100).
+- Blue Light emergency call boxes are stationed every 100 meters throughout campus walkways and parking areas.

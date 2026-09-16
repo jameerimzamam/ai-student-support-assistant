@@ -1,0 +1,6 @@
+{
+  "name": "AI Student Support Assistant",
+  "description": "An agentic AI Student Support Assistant with Python FastAPI backend, RAG knowledge base, tools, memory, and interactive chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

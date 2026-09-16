@@ -1,0 +1,36 @@
+[SAMPLE / DEMO COLLEGE DOCUMENT]
+Document: Apex University - Academic Regulations & Degree Requirements
+
+1. Credit Framework and Graduation Requirements
+- Undergraduate Bachelor of Technology (B.Tech / B.S.) requires successful completion of a minimum of 160 total academic credits.
+- Category Breakdown:
+  * Basic Sciences & Mathematics: 24 credits
+  * Engineering Sciences / Foundations: 18 credits
+  * Professional Core (Major): 54 credits
+  * Professional Electives: 24 credits
+  * Open Electives / Humanities: 16 credits
+  * Capstone Senior Design Project & Internship: 24 credits
+
+2. Grading System & Grade Point Average (GPA)
+- 10-point Letter Grading Scale:
+  * 'O' (Outstanding)       : 10 grade points (90 - 100 marks)
+  * 'A+' (Excellent)        : 9 grade points (80 - 89 marks)
+  * 'A' (Very Good)         : 8 grade points (70 - 79 marks)
+  * 'B+' (Good)             : 7 grade points (60 - 69 marks)
+  * 'B' (Above Average)     : 6 grade points (55 - 59 marks)
+  * 'C' (Average)           : 5 grade points (50 - 54 marks)
+  * 'P' (Pass)              : 4 grade points (40 - 49 marks)
+  * 'F' (Fail)              : 0 grade points (< 40 marks)
+  * 'FA' (Attendance Fail)  : 0 grade points (Detained)
+
+3. Calculation of SGPA and CGPA
+- Semester Grade Point Average (SGPA) = Sum(Course Credits * Grade Points) / Sum(Course Credits) for that semester.
+- Cumulative Grade Point Average (CGPA) = Sum(Total Credits Earned * Grade Points across all semesters) / Total Registered Credits.
+
+4. Academic Probation and Dean's Honors List
+- Academic Probation: A student whose CGPA drops below 5.0 at the end of any academic year is placed on Academic Probation. The student is limited to registering for a maximum of 16 credits in the subsequent term and must attend mandatory academic counseling.
+- Dean's Honors List: Full-time students achieving an SGPA of 9.2 or higher in a semester with zero backlogs and no disciplinary citations are awarded the Dean's List commendation certificate.
+
+5. Course Add / Drop and Withdrawal Policy
+- Course Add/Drop Period: First 7 calendar days from semester commencement without academic or financial penalty.
+- Course Withdrawal: Available until the end of the 8th week of the semester. A grade of 'W' will be reflected on the student transcript and will not impact GPA calculations.
